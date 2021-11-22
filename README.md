@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samuxlh
 - 👀 I’m interested in Data Science, Python, Matplot, Javascript, CSS, HTML, React;
-- 🌱 I’m currently learning HTML and CSS basics;
+- 🌱 I’m currently learning Django, Pandas and React JS mostly;
 - 💞️ I’m looking to collaborate on pretty much anything;
-- 📫 How to reach me you can mail me at samuxlh@gmail.com
+- 📫 You can mail me at samuelcdossantos@hotmail.com
 
